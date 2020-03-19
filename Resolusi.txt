@@ -1,3 +1,9 @@
 - menyelesaikan semua tugas kuliah tepat waktu
 - X
 - Y
+
+<--Experimental-->
+- Mempelajari Git & GitHub
+- Mempelajari HTML
+- Mempelajari CSS
+- Mempelajari PHP
